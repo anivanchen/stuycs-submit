@@ -34,7 +34,7 @@ If not installed, go to python.org/downloads and install the latest version.
 - Run in a CLI: 
 `curl https://raw.githubusercontent.com/anivanchen/stuycs-submit/main/stuycs-submit.py --output stuycs-submit.py`
 
-If you do not have Mr. David M. Holmes
+If you do not have Mr. David Holmes
 
 - Run this also: 
 `curl https://raw.githubusercontent.com/anivanchen/stuycs-submit/main/getIDs.py --output getIDs.py`
@@ -45,9 +45,9 @@ If you do not have Mr. David M. Holmes
 - Extract the zip file. 
 
 ## Run this code
-If you have Mr. David M. Holmes, you're set. At least for this semester. After the fall2021 term, follow the instructions below if I do not update this repository. Just double click `stuycs-submit.py` and follow the instructions there. 
+If you have Mr. David Holmes, you're set. At least for this semester. After the fall2021 term, follow the instructions below if I do not update this repository. Just double click `stuycs-submit.py` and follow the instructions there. 
 
-If you do not have Mr. David M. Holmes, or it is no longer the fall2021 semester, your job is slightly harder. 
+If you do not have Mr. David Holmes, or it is no longer the fall2021 semester, your job is slightly harder. 
 - Run `getIDs.py` first and follow the instructions there. 
 - A file named `IDs.txt` should be created in the same directory. Open it. 
 - Something like `p1 'CHEN, IVAN': 'a739sjaie25',...` should fill every line in the file. The first is the period, the second is the names, and the third is a generated ID by the site. The ID is what we are looking for.
