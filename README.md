@@ -1,5 +1,9 @@
 # stuycs-submit
 
+
+![](https://img.shields.io/github/v/release/anivanchen/stuycs-submit?style=for-the-badge)
+![](https://img.shields.io/github/license/anivanchen/stuycs-submit?color=brightgreen&style=for-the-badge)
+
 A CLI program to submit homework to the StuyCS homework server (bert.stuy.edu) written in Python and built using BeautifulSoup and requests. This should work in MacOS, Windows, and Linux. 
 
 # Installation / Setup
