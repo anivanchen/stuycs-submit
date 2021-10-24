@@ -207,7 +207,7 @@ while True:
     print('invalid name or term')
   else: break
 
-period = "p2"
+period = 'p' + input('Period (number): ')
 
 # get id from dictionary p
 while True:
